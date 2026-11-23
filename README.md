@@ -11,6 +11,3 @@
 
 При загрузке скрипт запрашивает файлы движка с unpkg.com и пиксельный шрифт с fonts.gstatic.com.
 
-## Лицензия скрипта
-
-[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Исходная версия подписана urs_ditch, текущая редакция — Владислав (qwzwqqe).
